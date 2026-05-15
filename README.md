@@ -64,5 +64,5 @@ Welcome to the **Sar-E-Darya Restaurant Management Dashboard**, a premium, offli
 ---
 
 ## 👨‍💻 Developed By
-**Antigravity AI Coding Assistant**
+Muhammad Zeeshan   0300-7487676
 For: **Sar-E-Darya Restaurant**
